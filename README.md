@@ -21,7 +21,7 @@ This project is an Airline Booking System built with Python and Django. It allow
 3. Install the required dependencies:
 
    ```bash
-   pip install -r r
+   pip install -r requirements.txt
    ```
 
    Apply database migrations:
@@ -56,4 +56,3 @@ This project is an Airline Booking System built with Python and Django. It allow
 - User login and account management.
 
 Enjoy managing flight bookings with this robust and user-friendly application!
-
